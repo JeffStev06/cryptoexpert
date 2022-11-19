@@ -1,11 +1,10 @@
 # Proyecto de Catedra CryptoExpert
 
-# Integrantes 
+## Integrantes 
 José Daniel Martínez Ayala MM161916  </br>
 Mauricio Ernesto Velásquez Vega VV140557 </br>
 Cristian Odir López Revelo LR161911  </br>
 Jeffrey Steven Morán Martínez MM161923  </br>
-</br>
 
 ### DSE 02T CICLO02-2022
 
