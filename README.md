@@ -18,11 +18,11 @@ Jeffrey Steven Morán Martínez MM161923  </br>
 ## Detalles
 Aplicación desarrollada en React Native con EXPO y probada en un emulador de Android Studio API 30
 
-Versiones
+##### Versiones
 EXPO ~46.0.16
 React 18.0.0
 
-Para probarlo se necesita tener la APP [EXPO](https://play.google.com/store/apps/details?id=host.exp.exponent) instalado en el celular un emulador corriendo en Android Studio
+Para probarlo se necesita tener la APP [EXPO](https://play.google.com/store/apps/details?id=host.exp.exponent) instalada en el celular o un emulador corriendo en Android Studio
 ~~~sh
 yarn install
 yarn android
