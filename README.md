@@ -13,8 +13,8 @@ Jeffrey Steven Morán Martínez MM161923  </br>
 - [Figma](https://www.figma.com/proto/utNslcQW3aVwSUk2pq6BYH/CryptoExpert?node-id=76%3A47&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
 
 # Capturas
-![Screenshots1](assets/screens1.png)
-![Screenshots2](assets/screens2.png)
+![Screenshots1](assets/screenshots/screens1.png)
+![Screenshots2](assets/screenshots/screens2.png)
 
 ## Detalles
 Aplicación desarrollada en React Native con EXPO y probada en un emulador de Android Studio API 30
